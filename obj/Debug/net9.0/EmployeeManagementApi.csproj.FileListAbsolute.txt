@@ -15,7 +15,6 @@
 /home/fuad/workspace/EmployeeManagementApi/EmployeeManagementApi/bin/Debug/net9.0/EmployeeManagementApi.dll
 /home/fuad/workspace/EmployeeManagementApi/EmployeeManagementApi/bin/Debug/net9.0/EmployeeManagementApi.pdb
 /home/fuad/workspace/EmployeeManagementApi/EmployeeManagementApi/bin/Debug/net9.0/Humanizer.dll
-/home/fuad/workspace/EmployeeManagementApi/EmployeeManagementApi/bin/Debug/net9.0/Microsoft.AspNetCore.OpenApi.dll
 /home/fuad/workspace/EmployeeManagementApi/EmployeeManagementApi/bin/Debug/net9.0/Microsoft.Bcl.AsyncInterfaces.dll
 /home/fuad/workspace/EmployeeManagementApi/EmployeeManagementApi/bin/Debug/net9.0/Microsoft.Build.Locator.dll
 /home/fuad/workspace/EmployeeManagementApi/EmployeeManagementApi/bin/Debug/net9.0/Microsoft.CodeAnalysis.dll
@@ -28,16 +27,7 @@
 /home/fuad/workspace/EmployeeManagementApi/EmployeeManagementApi/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Abstractions.dll
 /home/fuad/workspace/EmployeeManagementApi/EmployeeManagementApi/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Design.dll
 /home/fuad/workspace/EmployeeManagementApi/EmployeeManagementApi/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Relational.dll
-/home/fuad/workspace/EmployeeManagementApi/EmployeeManagementApi/bin/Debug/net9.0/Microsoft.Extensions.Caching.Abstractions.dll
-/home/fuad/workspace/EmployeeManagementApi/EmployeeManagementApi/bin/Debug/net9.0/Microsoft.Extensions.Caching.Memory.dll
-/home/fuad/workspace/EmployeeManagementApi/EmployeeManagementApi/bin/Debug/net9.0/Microsoft.Extensions.Configuration.Abstractions.dll
-/home/fuad/workspace/EmployeeManagementApi/EmployeeManagementApi/bin/Debug/net9.0/Microsoft.Extensions.DependencyInjection.dll
-/home/fuad/workspace/EmployeeManagementApi/EmployeeManagementApi/bin/Debug/net9.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
 /home/fuad/workspace/EmployeeManagementApi/EmployeeManagementApi/bin/Debug/net9.0/Microsoft.Extensions.DependencyModel.dll
-/home/fuad/workspace/EmployeeManagementApi/EmployeeManagementApi/bin/Debug/net9.0/Microsoft.Extensions.Logging.dll
-/home/fuad/workspace/EmployeeManagementApi/EmployeeManagementApi/bin/Debug/net9.0/Microsoft.Extensions.Logging.Abstractions.dll
-/home/fuad/workspace/EmployeeManagementApi/EmployeeManagementApi/bin/Debug/net9.0/Microsoft.Extensions.Options.dll
-/home/fuad/workspace/EmployeeManagementApi/EmployeeManagementApi/bin/Debug/net9.0/Microsoft.Extensions.Primitives.dll
 /home/fuad/workspace/EmployeeManagementApi/EmployeeManagementApi/bin/Debug/net9.0/Microsoft.OpenApi.dll
 /home/fuad/workspace/EmployeeManagementApi/EmployeeManagementApi/bin/Debug/net9.0/Mono.TextTemplating.dll
 /home/fuad/workspace/EmployeeManagementApi/EmployeeManagementApi/bin/Debug/net9.0/Npgsql.dll
