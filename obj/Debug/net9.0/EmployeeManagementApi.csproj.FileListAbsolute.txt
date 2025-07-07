@@ -130,3 +130,8 @@
 /home/fuad/workspace/EmployeeManagementApi/EmployeeManagementApi/obj/Debug/net9.0/EmployeeManagementApi.pdb
 /home/fuad/workspace/EmployeeManagementApi/EmployeeManagementApi/obj/Debug/net9.0/EmployeeManagementApi.genruntimeconfig.cache
 /home/fuad/workspace/EmployeeManagementApi/EmployeeManagementApi/obj/Debug/net9.0/ref/EmployeeManagementApi.dll
+/home/fuad/workspace/EmployeeManagementApi/EmployeeManagementApi/bin/Debug/net9.0/EmployeeManagementApi.staticwebassets.runtime.json
+/home/fuad/workspace/EmployeeManagementApi/EmployeeManagementApi/obj/Debug/net9.0/EmployeeManagementApi.sourcelink.json
+/home/fuad/workspace/EmployeeManagementApi/EmployeeManagementApi/obj/Debug/net9.0/compressed/mrpptbk0su-z75fhziepq.gz
+/home/fuad/workspace/EmployeeManagementApi/EmployeeManagementApi/obj/Debug/net9.0/compressed/4edr54ec4f-2xob2xrbkz.gz
+/home/fuad/workspace/EmployeeManagementApi/EmployeeManagementApi/obj/Debug/net9.0/compressed/xp5df3g1me-i9ukmhwj54.gz
